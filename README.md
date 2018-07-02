@@ -2,11 +2,7 @@
 
 Crear una libreta de contactos con las siguientes estructuras de datos:
 
--Lista enlazada (puede ser del tipo que estime conveniente)
--Árbol binario de búsqueda
--Árbol AVL
--Árbol 2-3
--Hash
+Lista enlazada, Árbol binario de búsqueda, Árbol AVL, Árbol 2-3, Hash
 
 Estas deben contener métodos para insertar, buscar y eliminar un contacto, además de un
 método que permita imprimir la lista de contactos en orden alfabético.
